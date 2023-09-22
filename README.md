@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4dn4ug01k05sje16/branch/main?svg=true)](https://ci.appveyor.com/project/alvikui/webinterface/branch/main)
